@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - StartPos
+  - Backpack
+  - Key
+  - Enemy
+  - Heart
+  - Hazards
+  - Coin
+  - Deadzone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BackGround
+  - Ground
+  - Damagable
+  - Dead
+  - Player
+  - Platform2
+  - Hazards
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4250941897
+    locked: 0
+  - name: Decoration
+    uniqueID: 1621692519
+    locked: 0
+  - name: Water
+    uniqueID: 21934813
+    locked: 0
+  - name: Platform
+    uniqueID: 4189426099
+    locked: 0
+  - name: Hazard
+    uniqueID: 426083741
+    locked: 0
+  - name: Heart
+    uniqueID: 1310366179
+    locked: 0
+  - name: Coin
+    uniqueID: 3957742283
+    locked: 0
+  - name: Enemy
+    uniqueID: 3883270809
+    locked: 0
+  - name: Player
+    uniqueID: 2425651459
+    locked: 0
+  - name: ForeGround Decoration
+    uniqueID: 2302553255
+    locked: 0
+  - name: Codelock
+    uniqueID: 3386515545
+    locked: 0
